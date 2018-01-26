@@ -1,1 +1,122 @@
+div {
+    border-radius: 5px;
+}
+ body {
+     background-color:#f2f2f2; }
+
+
+#header {
+z-index: 1;
+position: fixed;
+width: 100%;
+height:70px;
+background-color: #75a3a3;
+margin-bottom: 10px;
+}
+
+#name {
+	float: left;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	padding-top: 12px;
+	font-size: 30px;
+	font-family: Garamond, serif;
+	font-weight: 800
+	color: #ffffff;
+}
+
+#email {
+	float: right;
+	margin-right: 20px;
+	padding-bottom: 8px;
+	font-size: 28px;
+	font-family: garamond, serif;
+	font-weight: 800;
+	color: #ffffff;
+}
+
+h1 {
+font-family: Garamond, serif;
+font-size: 20px;
+color: #ffffff;
+}
+
+h2 {
+font-family: Garamond, serif;
+font-size: 20px;
+color: #000000;
+text-decoration: underline;
+}
+
+h3 {
+font-family: Garamond, serif;
+font-size: 20px;
+color: #75a3a3;
+}
+
+p {
+font-family: Garamond, serif;
+font-size: 18px;
+color: #000000;
+}
+
+.left {
+float: left;
+margin-left: 5px;
+margin-right: 5px;	
+margin-top: -10px;
+font-family: Garamond, serif;
+color: #000000;
+}
+
+.right {
+float: left;	
+margin-top: 70px;
+margin-left: 20px;
+padding-left: 5px;
+height: auto;
+font-family: Garamond, serif;
+color: #000000;}
+
+
+.right p {
+	margin-left: 20px;
+	margin-right: 5px;
+	margin-top: -10px;
+	font-family: Garamond, serif;
+	color: #000000;
+
+#footer {
+position: relative;
+height: 50px;
+background-color: #00000;
+clear: both;
+font-size: 14px;
+text-align: center;
+}
+
+li {
+	list-style-type: square;
+	color: #000000;
+}
+
+
+#title {
+height: 5px;
+}
+    
+#org-name {
+height:2px;
+text-decoration:underline;
+ }
+    
+#description {
+padding: 1px;
+}
+
+.title {
+font-weight: bold;
+}
+
+
 
